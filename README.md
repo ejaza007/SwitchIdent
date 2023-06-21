@@ -1,6 +1,6 @@
 # SwitchIdent ![Github latest downloads](https://img.shields.io/github/downloads/joel16/SwitchIdent/total.svg)
 
-This is yet another identity tool that is continuing the series of <*device name here*>ident. This tool allows users to get various bits of information from your Nintendo Switch device, hence the name 'ident' as in identifying your Nintendo Switch.
+This is yet another identity tool that is continuing the series of <*device name here*> ident. This tool allows users to get various bits of information from your Nintendo Switch device, hence the name 'ident' as in identifying your Nintendo Switch.
 
 <p align="center">
 <img src="https://i.imgur.com/JfPrael.jpg" alt="SwitchIdent Screenshot" width="640" height="360"/>
